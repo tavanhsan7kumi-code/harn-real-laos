@@ -5,9 +5,14 @@
     border-radius:12px;
 }
 
+.menu-card { transition: 0.3s; }
+.menu-card:hover { transform: translateY(-4px); }
+
+
 #about img{
     width:100%;
     max-width:400px;
+    height: auto;
     border-radius:12px;
 }
 
